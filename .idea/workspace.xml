@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bce1d527-c564-4480-ae27-6d22624bd655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/e2e/scr/step-definitions/hooks/hooks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/scr/step-definitions/assertion/verify-element-visibility.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/scr/step-definitions/navigation.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -107,6 +112,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.cucumber.cucumber_node_package_dir": "C:/Users/omnip/Projects/testing-talks-hub/react-app/e2e/node_modules/@cucumber/cucumber",
     "nodejs_package_manager_path": "yarn",
     "ts.external.directory.path": "C:\\Users\\omnip\\Projects\\testing-talks-hub\\react-app\\e2e\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -122,6 +128,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Scenario: As a user I expect to be ab..." type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/e2e/scr/features/home-page.feature" />
+      <option name="myNameFilter" value="^As a user I expect to be able to see contacts$" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/e2e" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.js.Scenario: As a user I expect to be ab..." />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -134,7 +154,9 @@
       <option name="presentableId" value="Default" />
       <updated>1638155757223</updated>
       <workItem from="1675994836513" duration="1764000" />
-      <workItem from="1677202075107" duration="4003000" />
+      <workItem from="1677202075107" duration="4826000" />
+      <workItem from="1677550879701" duration="7535000" />
+      <workItem from="1677627334390" duration="291000" />
     </task>
     <servers />
   </component>

@@ -2,6 +2,8 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
@@ -12,7 +14,6 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.24.0",
     "bootstrap": "5.1.3",
-    "build": "babel src -d lib",
     "material-ui-popup-state": "^2.0.0",
     "muicss": "^0.10.3",
     "react": "^17.0.2",
@@ -21,11 +22,9 @@
     "react-helmet": "^6.1.0",
     "react-iframe": "^1.8.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "5.0.1",
-    "test": "jest",
+    "react-scripts": "4.0.3",
     "underscore": "^1.13.1",
-    "web-vitals": "^1.0.1",
-    "yarn": "^1.22.19"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
