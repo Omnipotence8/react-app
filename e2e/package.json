@@ -4,15 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cucumber" : "cucumber-js src/features/**/*.feature --require-module ts-node/register --require src/step-definitions/**/**/*.ts"
+    "cucumber:dev": "cucumber-js src/features/**/*.feature --tags --require-module ts-node/register --require src/step-definitions/**/**/*.ts"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "@cucumber/cucumber": "^8.11.1",
     "@playwright/test": "^1.16.1",
     "playwright": "^1.16.1",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.9.1",
     "typescript": "^4.4.4"
   }
 }
